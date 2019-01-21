@@ -9,5 +9,5 @@ PRank Score based on the Matrix Form is a implementation of aSTEAM Project (Next
 * Please import packages (`sklearn.ensemble.RandomForestClassifier, sklearn.tree.DecisionTreeClassifier, sklearn.linear_model.LogisticRegression, SGDClassifier etc`)
 
 ## Instructions
-
+Entering a classifier name, such as RandomForestClassifier, AdaBoostClassifier, SGDClassifier, will classifier whether url is malicious or not, and compare the classification accuracy of each classifier.
 
